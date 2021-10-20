@@ -31,8 +31,4 @@ public class SquareDigits {
         return ress;
     }
 
-
-    public static void main(String[] args) {
-        squareDigits(9119);
-    }
 }
