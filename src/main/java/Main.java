@@ -2,7 +2,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        Accumul.accum("RqaEzty");
+        System.out.println(Accumul.accum("RqaEzty"));
 
 
     }
